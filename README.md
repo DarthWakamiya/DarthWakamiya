@@ -6,7 +6,7 @@
 
 ### 🚀 About Me
 
-Cybersecurity enthusiast focused on Offensive Security. I enjoy building security labs, exploring vulnerabilities, and continuously learning through hands-on practice.
+Breaking things to understand how they work. Building things to make them more secure.
 
 🌱 &nbsp;I'm currently learning **Web Security • Red Teaming • Active Directory • C Programming**  
 👯 &nbsp;I'm looking to collaborate on **Open-source security tools &amp; educational cybersecurity projects**  
