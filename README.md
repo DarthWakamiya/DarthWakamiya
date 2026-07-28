@@ -8,7 +8,7 @@
 
 Breaking things to understand how they work. Building things to make them more secure.
 
-🌱 &nbsp;I'm currently learning **Web Security • Red Teaming • Active Directory • C Programming**  
+🌱 &nbsp;I'm currently learning **Web Security • Red Teaming • Active Directory • C & Python Programming**  
 👯 &nbsp;I'm looking to collaborate on **Open-source security tools &amp; educational cybersecurity projects**  
 🤔 &nbsp;I'm looking for help with **Advanced penetration testing, exploit development, and AI security**  
 💬 &nbsp;Ask me about **IT Stuff**  
