@@ -13,7 +13,6 @@
 Cybersecurity Enthusiast
 
 🌱 &nbsp;I'm currently learning **Web Security • Red Teaming • Active Directory • C &amp; Python**  
-👯 &nbsp;I'm looking to collaborate on **Open-source security tools &amp; educational cybersecurity projects**  
 🤔 &nbsp;I'm looking for help with **Advanced RedTeaming &amp; Exploit Development**  
 💬 &nbsp;Ask me about **IT Stuff**  
 ⚡ &nbsp;Fun fact: **Curiosity got me into cybersecurity**
