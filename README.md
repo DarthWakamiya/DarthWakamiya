@@ -8,12 +8,12 @@
   <img src="https://readme-typing-svg.demolab.com?font=Caveat&weight=600&size=26&pause=1000&color=2f81f7&center=true&vCenter=true&width=385&height=44&lines=How%20Does%20It%20Work%3F%20and..;Why%20Does%20It%20Work%3F" alt="Typing headlines" />
 </p>
 
-### 🚀 About Me
+### About Me
 
 Cybersecurity Enthusiast
 
-🌱 &nbsp;I'm currently learning **Web Security • Red Teaming • Active Directory • C &amp; Python**  
-🤔 &nbsp;I'm looking for help with **Advanced RedTeaming &amp; Exploit Development**  
+🌱 &nbsp;currently learning **Web Security • Red Teaming • Active Directory • C &amp; Python**  
+🌐 &nbsp;looking for help with **Advanced RedTeaming &amp; Exploit Development**  
 💬 &nbsp;Ask me about **IT Stuff**  
 ⚡ &nbsp;Fun fact: **Curiosity got me into cybersecurity**
 
